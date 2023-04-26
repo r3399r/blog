@@ -46,6 +46,7 @@ languageCode = "zh-TW"
     noClasses = false
 
 [params]
+  title = "Celestial Studio"
   description = "hi"
 
 [params.header.title]
@@ -53,3 +54,10 @@ languageCode = "zh-TW"
 
 [params.home.profile]
   subtitle = "Dedicated in handy apps"
+
+[params.social]
+  GitHub = "r3399r"
+  Linkedin = "yue-chang-3a964014b"
+  Facebook = "yue.chang.9"
+  Instagram = "yue.r3399r"
+  Email = "lamplighter.planet@gmail.com"
