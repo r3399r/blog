@@ -61,3 +61,6 @@ languageCode = "zh-TW"
   Facebook = "yue.chang.9"
   Instagram = "yue.r3399r"
   Email = "lamplighter.planet@gmail.com"
+
+[markup.goldmark.renderer]
+  unsafe = true
