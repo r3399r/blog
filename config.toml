@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 theme = "LoveIt"
 title = "Celestial Studio"
 languageCode = "zh-TW"
+googleAnalytics = "G-9NEDZG3Q85"
 
 # Author config
 [author]
