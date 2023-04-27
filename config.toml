@@ -63,5 +63,8 @@ googleAnalytics = "G-9NEDZG3Q85"
   Instagram = "yue.r3399r"
   Email = "lamplighter.planet@gmail.com"
 
+[params.page.math]
+  enable = true
+
 [markup.goldmark.renderer]
   unsafe = true
