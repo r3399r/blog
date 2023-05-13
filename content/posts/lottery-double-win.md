@@ -2,7 +2,7 @@
 title: "雙贏彩機率解析"
 date: 2023-04-30T01:29:12+08:00
 draft: false
-tags: ["樂透"]
+tags: ["樂透","機率"]
 categories: ["台灣彩券"]
 description: "雙贏彩的玩法是 24 選 12，猜中 9 個以上或 3 個以下即可中獎"
 math: true

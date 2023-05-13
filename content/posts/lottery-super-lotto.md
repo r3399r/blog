@@ -2,7 +2,7 @@
 title: "威力彩機率解析"
 date: 2023-05-02T09:23:09+08:00
 draft: false
-tags: ["樂透"]
+tags: ["樂透","機率"]
 categories: ["台灣彩券"]
 description: "威力彩的玩法是第一區 38 選 6，第二區 8 選 1，猜中兩區號碼即可中獎"
 math: true

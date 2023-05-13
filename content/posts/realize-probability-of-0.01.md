@@ -4,6 +4,8 @@ date: 2023-05-05T04:29:30+08:00
 draft: false
 description: "即使玩了 100 次出現機率為 1% 的扭蛋，仍有接近 40 次會摃龜，該如何正確解讀機率呢？"
 math: true
+tags: ["機率"]
+categories: ["數學"]
 ---
 <!--more-->
 

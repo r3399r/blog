@@ -2,7 +2,7 @@
 title: "大樂透機率解析"
 date: 2023-05-01T00:26:50+08:00
 draft: false
-tags: ["樂透"]
+tags: ["樂透","機率"]
 categories: ["台灣彩券"]
 description: "大樂透的玩法是 49 選 6，猜中 3 個以上即可中獎"
 math: true
