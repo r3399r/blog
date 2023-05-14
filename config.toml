@@ -3,6 +3,7 @@ theme = "LoveIt"
 title = "Celestial Studio"
 languageCode = "zh-TW"
 googleAnalytics = "G-9NEDZG3Q85"
+disqusShortname = "celestialstudio"
 
 # Author config
 [author]
@@ -68,3 +69,9 @@ googleAnalytics = "G-9NEDZG3Q85"
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[params.page.comment]
+  enable = true
+  [params.page.comment.disqus]
+    enable = true
+    shortname = "celestialstudio"
