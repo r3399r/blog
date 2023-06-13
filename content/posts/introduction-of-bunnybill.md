@@ -1,5 +1,5 @@
 ---
-title: 一款簡單實用的免登入、免安裝的分帳程式 Bunny Bill"
+title: 一款簡單實用的免登入、免安裝的分帳程式 Bunny Bill
 date: 2023-06-13T09:34:38+08:00
 draft: false
 ---
