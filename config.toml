@@ -49,10 +49,12 @@ disqusShortname = "celestialstudio"
 
 [params]
   title = "Celestial Studio"
-  description = "hi"
+  description = "This is my cool blog to share my works"
+  images = ["/images/logo.png"]
 
 [params.header.title]
   name = "Celestial Studio"
+  logo = "/images/logo.png"
 
 [params.home.profile]
   subtitle = "Dedicated in handy apps"

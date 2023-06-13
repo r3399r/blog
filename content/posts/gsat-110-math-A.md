@@ -74,7 +74,7 @@ $\Rightarrow a^2=b^3$，故選 **(1)**。
 (5) $y=-\dfrac x2$
 </div>
 <div style="min-width:250px;max-width:40%;">
-<img src="/gsat-110-3.png">
+<img src="/images/gsat-110-3.png">
 </div>
 </div>
 
