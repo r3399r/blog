@@ -55,3 +55,54 @@ $\Rightarrow\log_ab=\dfrac23$
 $\Rightarrow a^{\frac23}=b$
 
 $\Rightarrow a^2=b^3$，故選 **(1)**。
+
+---
+
+### 3. 投影與變異數
+
+在處理二維數據時，有種方法是將數據垂直投影到某一直線，並以該直線為數線，進而了解投影點所成一維數據的變異。下圖的一組二維數據，試問投影到哪一選項的直線，所得之一維投影數據的變異數會是最小？
+<div style="display:flex;justify-content:space-between;flex-wrap:wrap">
+<div>
+(1) $y=2x$
+
+(2) $y=-2x$
+
+(3) $y=-x$
+
+(4) $y=\dfrac x2$
+
+(5) $y=-\dfrac x2$
+</div>
+<div style="min-width:250px;max-width:40%;">
+<img src="/gsat-110-3.png">
+</div>
+</div>
+
+#### Sol.
+
+
+---
+
+### 4. 等差與對數
+
+設等差數列 $\langle a_n\rangle$ 之首項 $a_1$ 與公差 $d$ 皆為正數，且 $\log a_1$，$\log a_3$，$\log a_6$ 依序也成等差數列。試選出數列 $\log a_1$，$\log a_3$，$\log a_6$ 的公差。
+
+<div style="display:flex;gap:20px;align-items:center;flex-wrap:wrap">
+<div>(1) $\log d$</div><div>(2) $\log\dfrac23$</div><div>(3) $\log\dfrac32$</div><div>(4) $\log2d$</div><div>(5) $\log3d$</div>
+</div>
+
+#### Sol.
+
+
+---
+
+### 5. 傳染病
+
+已知某地區有 30％ 的人口感染某傳染病。針對該傳染病的快篩試劑檢驗，有陽性或陰性兩結果。已知該試劑將染病者判為陽性的機率為 80％，將未染病者判為陰性的機率則為 60％。為降低該試劑將染病者誤判為陰性的情況，專家建議連續採檢三次。若單次採檢判為陰性者中，染病者的機率為 $P$；而連續採檢三次皆判為陰性者中，染病者的機率為 $P\'$。試問 $\dfrac P{P\'}$ 最接近哪一選項？
+
+<div style="display:flex;gap:20px;align-items:center;flex-wrap:wrap">
+<div>(1) 7</div><div>(2) 8</div><div>(3) 9</div><div>(4) 10</div><div>(5) 11</div>
+</div>
+
+#### Sol.
+
