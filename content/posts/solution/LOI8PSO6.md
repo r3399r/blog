@@ -12,7 +12,3 @@ categories: ["數學"]
 
 ## 詳解
 <img src="/posts/solution/LOI8PSO6-sol.png">
-
-## 連結
-
-https://yoho.celestialstudio.net/question?id=LOI8PSO6
