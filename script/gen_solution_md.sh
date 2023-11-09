@@ -2,7 +2,7 @@ for id in "$@"
 do
 cat <<EOF >./content/posts/solution/"$id".md
 ---
-title: "$1"
+title: "$id"
 date: $(date -Iseconds)
 draft: false
 categories: ["數學"]

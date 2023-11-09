@@ -1,6 +1,6 @@
 ---
 title: "LOQPCMX6"
-date: 2023-11-09T15:26:42+08:00
+date: 2023-11-09T15:30:13+08:00
 draft: false
 categories: ["數學"]
 ---
