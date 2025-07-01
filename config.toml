@@ -6,7 +6,7 @@ googleAnalytics = "G-9NEDZG3Q85"
 disqusShortname = "celestialstudio"
 
 # Author config
-[author]
+[params.author]
   name = "Yue岳"
   email = "lamplighter.planet@gmail.com"
 
